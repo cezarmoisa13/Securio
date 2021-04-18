@@ -1,0 +1,12 @@
+button {
+    background-color: #e2231d;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: "Georgia", serif;
+}

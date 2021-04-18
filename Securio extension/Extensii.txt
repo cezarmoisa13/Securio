@@ -1,0 +1,2 @@
+icon.png (19x19px)
+icon_128.png (128x128px)
